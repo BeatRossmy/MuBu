@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "MuBu_V3")(type "KiCad")(uri "/Users/beat/Documents/Beat/Jobs/Brandhorst/Mubu/MuBu_V3.pretty")(options "")(descr ""))
-  (lib (name "MuBu_Footprints")(type "KiCad")(uri "${KIPRJMOD}/MuBu_Footprints.pretty")(options "")(descr ""))
-)
